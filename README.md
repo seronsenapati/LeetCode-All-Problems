@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
