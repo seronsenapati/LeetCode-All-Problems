@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -273,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0877-stone-game) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
