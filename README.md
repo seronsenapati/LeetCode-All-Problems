@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -302,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
