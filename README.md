@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0486-predict-the-winner) |
+| [1922-count-good-numbers](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1922-count-good-numbers) |
 ## Game Theory
 |  |
 | ------- |
