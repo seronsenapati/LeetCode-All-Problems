@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0486-predict-the-winner) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bucket Sort
 |  |
@@ -374,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
