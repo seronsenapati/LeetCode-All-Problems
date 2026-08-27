@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0152-maximum-product-subarray) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1901-find-a-peak-element-ii) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0079-word-search) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3310-remove-methods-from-project) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
