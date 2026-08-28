@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0051-n-queens) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0051-n-queens) |
@@ -411,5 +415,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
