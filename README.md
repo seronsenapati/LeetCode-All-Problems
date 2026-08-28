@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1021-remove-outermost-parentheses) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0877-stone-game) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0282-expression-add-operators) |
 ## Algorithm X
 |  |
 | ------- |
