@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1922-count-good-numbers) |
