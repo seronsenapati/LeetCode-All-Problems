@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0282-expression-add-operators) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1386-cinema-seat-allocation) |
