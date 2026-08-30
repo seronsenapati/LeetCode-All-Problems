@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1386-cinema-seat-allocation) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
