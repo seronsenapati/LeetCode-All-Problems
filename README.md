@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0410-split-array-largest-sum) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0486-predict-the-winner) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -443,4 +447,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0037-sudoku-solver) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/seronsenapati/LeetCode-All-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
